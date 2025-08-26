@@ -2,6 +2,7 @@
 #include "../src/DataProcessingServer.hpp"
 #include "../src/NetworkHandler.hpp"
 #include <algorithm>
+#include <chrono>
 
 using namespace std::chrono_literals;
 

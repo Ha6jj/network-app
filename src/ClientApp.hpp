@@ -2,6 +2,7 @@
 #define CLIENT_APP_HEADER_GUARD
 
 #include "NetworkHandler.hpp"
+#include <iostream>
 
 class ClientApp
 {

@@ -2,6 +2,7 @@
 #define DISPLAY_SERVER_HEADER_GUARD
 
 #include "NetworkHandler.hpp"
+#include <iostream>
 
 class DisplayServer
 {

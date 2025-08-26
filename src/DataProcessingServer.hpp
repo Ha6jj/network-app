@@ -4,6 +4,7 @@
 #include <sstream>
 #include <unordered_set>
 #include <algorithm>
+#include <iostream>
 #include "NetworkHandler.hpp"
 
 class DataProcessingServer
